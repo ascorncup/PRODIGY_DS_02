@@ -9,10 +9,11 @@ This repository contains the code and data for predicting survival on the Titani
 The dataset used for this project is the Titanic dataset, which contains information about passengers onboard the Titanic, including whether they survived or not. The dataset is available in the `titanic.csv` file.
 
 ## observations of relationships of variables
-[!img4.png]
-[!img3.png]
-[!img1.png]
-[!img2.png]
+![](img4.png)
+![](img3.png)
+![](img2.png)
+![](img1.png)
+
 
 ## Models and Results
 We have evaluated several machine learning models on the Titanic dataset, including:
