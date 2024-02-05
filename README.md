@@ -6,7 +6,7 @@
 This repository contains the code and data for predicting survival on the Titanic using machine learning algorithms. The Titanic dataset is a classic dataset used for machine learning and predictive modeling tasks. The goal of this project is to build and compare different machine learning models to predict whether a passenger survived the Titanic disaster based on various features such as age, gender, passenger class, etc.
 
 ## Dataset
-The dataset used for this project is the Titanic dataset, which contains information about passengers onboard the Titanic, including whether they survived or not. The dataset is available in the `titanic.csv` file.
+The dataset used for this project is the Titanic dataset, which contains information about passengers onboard the Titanic, including whether they survived or not. The dataset is available [here](https://www.canva.com/link?target=https%3A%2F%2Fwww.kaggle.com%2Fc%2Ftitanic%2Fdata&design=DAFpRxy47kU&accessRole=viewer&linkSource=document)
 
 ## observations of relationships of variables
 ![](img4.png)
